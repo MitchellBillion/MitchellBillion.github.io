@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Mitchell Billiion Curriculum Veritae
+title: Mitchell Billion's Blog
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="cv">
+	<ul class="posts">
 
-	  {% for cv in site.cvs %}
-	    <li><span>{{ cv.date | date_to_string }}</span> » <a href="{{ cv.url }}" title="{{ cv.title }}">{{ cv.title }}</a></li>
+	  {% for post in site.cvs %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
