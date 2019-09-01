@@ -1,3 +1,4 @@
 name: Mitchell Billion
 markdown: Kramdown
+permalink: /blog/:year/:month/:day/:title
 
