@@ -2,3 +2,5 @@ name: Mitchell Billion
 markdown: Kramdown
 permalink: /blog/:year/:month/:day/:title
 permalink: /cv/:year/:month/:day/:title
+permalink: /about/:year/:month/:day/:title
+permalink: /seanceanalytics/:year/:month/:day/:title
