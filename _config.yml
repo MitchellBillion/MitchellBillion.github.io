@@ -4,3 +4,4 @@ permalink: /blog/:year/:month/:day/:title
 permalink: /cv/:year/:month/:day/:title
 permalink: /about/:year/:month/:day/:title
 permalink: /seanceanalytics/:title
+permalink: /seanceanalogue/:title
