@@ -9,4 +9,4 @@ DATEDIFF(interval, StartDate, EndDate)
 
 CHARINDEX(substring, string, start[optional])
 
-SELECT SUBSTRING(String, Start, Len)
+SUBSTRING(String, Start, Len)
