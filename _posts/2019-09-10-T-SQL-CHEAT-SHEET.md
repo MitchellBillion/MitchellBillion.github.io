@@ -10,3 +10,7 @@ DATEDIFF(interval, StartDate, EndDate)
 CHARINDEX(substring, string, start[optional])
 
 SUBSTRING(String, Start, Len)
+
+## Table Manipulation
+
+UPDATE SchemaName.TableName <br/> SET Column1 = Value1  [,  ...SET ColumnN = ValueN]
