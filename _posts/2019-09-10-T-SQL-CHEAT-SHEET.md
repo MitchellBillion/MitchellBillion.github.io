@@ -1,4 +1,4 @@
-# T-SQL Cheat Sheet
+
 ### BY: Mitchell Billion
 
 ## DATE MANIPULATION
