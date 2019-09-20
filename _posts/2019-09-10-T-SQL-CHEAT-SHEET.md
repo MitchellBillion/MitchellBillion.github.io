@@ -7,6 +7,8 @@ DATEDIFF(interval, StartDate, EndDate)
 
 DATEADD(TimeUnit, Units, Date)
 
+DATEPART(datepart,date)
+
 ## STRING MANIPULATION
 
 CHARINDEX(substring, string, start[optional])
